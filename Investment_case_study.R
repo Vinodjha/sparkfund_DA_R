@@ -3,7 +3,6 @@
 #     FileNAme: Investment_Case_Studay.R
 #     Description: File consist the code in R language for the analysis required by 
 #     CEO of Spark Funds.
-#     Project Team: Rishabh Shrivastava, Amitabha Banerjee, Vinod Jha, Saurav Kumar
 ######################################################################################
 
 #installing required packages 
